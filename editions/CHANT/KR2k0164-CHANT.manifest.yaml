@@ -1,0 +1,28 @@
+canonical_identifier: bkk:krp/KR2k0164/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2k0164/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 陳留風俗傳
+  identifiers:
+    krp: KR2k0164
+  tags:
+    kr-categories: KR2k
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR2k0164.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2k0164_001-CHANT.yaml, hash: 'sha256:3a750112cc05788c60b7a57fb0c579f0f597fc402965122eb9e04b38d4bfd7cd'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2k0164_001-CHANT.markers.yaml, hash: 'sha256:d0227c781fa9436594bf592110b6245600d7353528bcffc6d814452416f0ebb5'}
+table_of_contents:
+- ref: {seq: 1, marker_id: KR2k0164_CHANT_001-1a.1-h, span: [body, 0, 82]}
+  label: 陳留風俗傳
+  type: section
+  level: 1
+hash: sha256:788de4a57c76bb9dd263cf5eccc020e85e5702d358f26345a40c6041d786882d
