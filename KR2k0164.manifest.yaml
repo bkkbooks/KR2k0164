@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2k0164/v1
 canonical_location: https://kanripo.org/bkk/KR2k0164/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 陳留風俗傳
   identifiers:
@@ -36,4 +36,4 @@ table_of_contents:
   label: 陳留風俗傳
   type: section
   level: 1
-hash: sha256:b0a62c2f74958f818356368b4dc35e0353a043c7059c49adc78296e63b72b607
+hash: sha256:322c48f9cf397c6981047b7cd7ceeceb0bed48b2f0753f8cf4985cea2e3aa5af
